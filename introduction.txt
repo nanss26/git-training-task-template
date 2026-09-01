@@ -1,8 +1,5 @@
-Skills:
--designing through figma and adobe illustrator
--prototyping
--vector designing
-
-Hobbies:
--Listening to music
--watching movies and series
+Hello sir/ma'am,
+My name is Nandini Chandra
+I am a 2nd year student in CS-IT branch
+I am a designer
+My hobby is listening to music
